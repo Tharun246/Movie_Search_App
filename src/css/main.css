@@ -1,0 +1,11 @@
+.content {
+ 
+    position: absolute;
+    top: 20px;
+    width: 100%;
+    height: 100vh;
+    background-image: url('../wall-2.jpeg');
+    object-fit: contain;
+
+  }
+  
